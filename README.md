@@ -35,3 +35,7 @@ class MeAtWork extends Profile
     }
 }
 ```
+
+<p align="center">
+    <img src="https://web.archive.org/web/20091027163744/http://geocities.com/pikachumom92/Pika_w_flower.gif">
+</p>
